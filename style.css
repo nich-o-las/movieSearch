@@ -1,0 +1,61 @@
+body {
+    color: whitesmoke;
+      background: rgb(14,26,64);
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+    }
+    .title{
+      text-align: center;
+      color: whitesmoke;
+      background: rgb(34,47,91);
+      height:50px;
+      font-size: 1.8rem;   
+    }
+  
+    main {
+      flex: 1 0 auto;
+    }
+    
+    .icon-block {
+      padding: 0 15px;
+    }
+    .icon-block .material-icons {
+        /*font-size: inherit;*/
+    }
+  
+  .container{
+      margin-top: 20px;
+      
+      
+    }
+  
+  .mainContainer {
+      border: solid gray 1px;    
+      border-radius: 15px;
+  }
+  .titleContainer {
+    border: solid gray 1px;
+    border-radius: 15px;
+  }
+  .youTubeContainer {  
+    height: 150px;
+    border: solid gray 1px;
+  }
+  
+  .recommendContainer{
+    border: solid gray 1px;
+    border-radius: 15px;
+  }
+  
+  footer {
+        width: 100%;
+        position: fixed;
+        bottom: 0px;
+        color: whitesmoke;
+        background: rgb(34,47,91);
+    }
+  
+  header {
+      width: 100%;
+  }
