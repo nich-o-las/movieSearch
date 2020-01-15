@@ -3,7 +3,7 @@ $(function () {
     var movies = [];
     var searchValue;
     var movieApiKey = "cff6c897";
-    var youTubeApiKey = "AIzaSyC5ImoUwTkX38aX8eAlbEW2_FP6fbLAVH0";
+    var youTubeApiKey = "AIzaSyCVFbGPy3AzhisT-iYR_oCD6NWubjjkwp0";
     var tmdbApiKey = "34c4275ec69762284d8e87bcc5f7e573";
     var utellyApiKey = "6036e8ca99msh30f244ef86faf3ep1e56f1jsn9c9368cad67e";
     var title;
