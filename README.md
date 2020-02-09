@@ -9,9 +9,9 @@ A web application that prompts a user to search for a movie and returns:
 * Recommendations for related movies
 
 ### Process:
-*UI was primarily built through Materialize.css
-*JS uses multiple nested functions and four unique API calls to fetch search result data
-*APIs used: YouTube, UTelly, OMDB, TMDB
+* UI was primarily built through Materialize.css
+* JS uses multiple nested functions and four unique API calls to fetch search result data
+* APIs used: YouTube, UTelly, OMDB, TMDB
 
 ### Authors: 
 * Nicholas Cox(https://github.com/nich-o-las)
