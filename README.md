@@ -8,6 +8,8 @@ A web application that prompts a user to search for a movie and returns:
 * Where to stream the movie online (e.g. Netflix, Amazon, etc.)
 * Recommendations for related movies
 
+![](./reelStream.gif)
+
 ### Process:
 * UI was primarily built through Materialize.css
 * JS uses multiple nested functions and four unique API calls to fetch search result data
